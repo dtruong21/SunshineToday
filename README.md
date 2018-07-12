@@ -1,8 +1,8 @@
-# Udacity Baking App
+# Udacity Sunshine
 
 [![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg?maxAge=2592000)]()
 
-This is my version of Udacity's Baking App project. I build this as part of [Udacity Associate Android Developer Fast Track](https://www.udacity.com/course/associate-android-developer-fast-track--nd818) program i've enrolled.
+This is my version of Udacity's Sunshine project. I build this as part of [Udacity Android Developer Nanodegree](https://eu.udacity.com/course/android-developer-nanodegree-by-google--nd801) program i've enrolled.
 
 ## What I've used
 
