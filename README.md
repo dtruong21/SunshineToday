@@ -13,9 +13,11 @@ This is my version of Udacity's Sunshine project. I build this as part of [Udaci
 
 ## User Interface
 
-<img src="../master/ui/1.jpg" width="250"> <img src="../master/ui/2.jpg" width="250">
+<img src="../master/ui/1.jpg" width="250"> <img src="../master/ui/3.jpg" width="250">
 
-<img src="../master/ui/3.jpg" width="250"> <img src="../master/ui/4.jpg" width="250">
+<img src="../master/ui/2.jpg" width="500"> 
+
+<img src="../master/ui/4.jpg" width="500">
 
 <img src="../master/ui/5.jpg" width="250">
 
