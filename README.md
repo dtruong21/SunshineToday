@@ -2,7 +2,14 @@
 
 This is my version of Udacity's Baking App project. I build this as part of [Udacity Associate Android Developer Fast Track](https://www.udacity.com/course/associate-android-developer-fast-track--nd818) program i've enrolled.
 
-### User Interface
+## What I've used
+
+- Android RecyclerView
+- Android Constraint layout
+- Android Preferences
+- Android core without API
+
+## User Interface
 
 ![User Interface](../master/ui/1.jpg) ![User Interface](../master/ui/2.jpg)
 
