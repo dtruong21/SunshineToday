@@ -13,7 +13,7 @@ This is my version of Udacity's Sunshine project. I build this as part of [Udaci
 
 ## User Interface
 
-![User Interface](../master/ui/1.jpg | width=100) ![User Interface](../master/ui/2.jpg)
+![User Interface](../master/ui/1.jpg=100x100) ![User Interface](../master/ui/2.jpg)
 
 ![User Interface](../master/ui/3.jpg) ![User Interface](../master/ui/4.jpg)
 
